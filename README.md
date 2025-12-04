@@ -52,7 +52,8 @@ Program to implement the given logic function and to verify its operations in qu
 
 
 **RTL realization**
-<img width="1019" height="395" alt="Screenshot 2025-12-04 192032" src="https://github.com/user-attachments/assets/f38ed69e-e93d-4079-9027-b344de0c3442" />
+![RTL EX2 I](https://github.com/user-attachments/assets/190ee793-b9de-4b82-aad8-8af51c0cc643)
+![RTL EX2 II](https://github.com/user-attachments/assets/fe0253e1-fe3e-4695-a735-c84406c04961)
 
 
 **Output:**
@@ -60,7 +61,9 @@ Program to implement the given logic function and to verify its operations in qu
 **RTL**
 
 **Timing Diagram**
-<img width="1058" height="412" alt="image" src="https://github.com/user-attachments/assets/4c5d571e-2e3b-40f8-89b4-de9d9551fbe5" />
+![WAVE EX2 I](https://github.com/user-attachments/assets/5a26b7d1-74bd-441d-a581-f2bb3aae299e)
+![WAVE EX2 II](https://github.com/user-attachments/assets/21a7186b-4827-4305-b073-bf804a4a7961)
+
 
 
 **Result:**
