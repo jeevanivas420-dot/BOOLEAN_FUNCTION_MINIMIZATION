@@ -32,19 +32,36 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+```
+module BOOLEAN (
+    input A,
+    input B,
+    output F
+);
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+assign F = A | B;
 
-Developed by: RegisterNumber:*/
+endmodule
+```
+
+
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+
+**Developed by:** Jeeva Nivas M 
+**RegisterNumber:** 25015894 
 
 
 **RTL realization**
+<img width="1019" height="395" alt="Screenshot 2025-12-04 192032" src="https://github.com/user-attachments/assets/f38ed69e-e93d-4079-9027-b344de0c3442" />
+
 
 **Output:**
 
 **RTL**
 
 **Timing Diagram**
+<img width="1058" height="412" alt="image" src="https://github.com/user-attachments/assets/4c5d571e-2e3b-40f8-89b4-de9d9551fbe5" />
+
 
 **Result:**
 
